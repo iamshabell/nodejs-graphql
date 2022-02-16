@@ -1,0 +1,15 @@
+[{
+    "id": 1,
+    "firstName": "Mubarak",
+    "lastName": "Shabel",
+    "designation": "Research Assistant ",
+    "department": "Developer",
+    "nearestCity": "Hargeisa"
+}, {
+    "id": 2,
+    "firstName": "Abdiqafar",
+    "lastName": "Shabel",
+    "designation": "Developer Assistant",
+    "department": "Developer",
+    "nearestCity": "Hargeisa"
+}]
