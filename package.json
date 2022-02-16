@@ -11,9 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "apollo-datasource": "^3.3.1",
     "apollo-server": "^3.6.3",
     "dotenv": "^16.0.0",
     "graphql": "^16.3.0",
+    "lodash": "^4.17.21",
     "nodemon": "^2.0.15"
   }
 }
